@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bez-popolneniya.github.io
+Sitemap: https://bez-popolneniya.github.io/sitemap.xml
